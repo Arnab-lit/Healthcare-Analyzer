@@ -1,0 +1,11 @@
+Api key seret
+	Tr7jCKop19cGsIF8HU5b0S5p77YLcaGKMqrbAWzYVyaG5IxIGf
+
+Api key
+	ZrzuWhnJYKhlJboy24wby5Lez
+
+Access Token
+	1422117031277592578-CRfaoAJ81CrBVKtBt28rMAtYWsyWFG
+
+Access Token Secret
+	GsYqxR5CMigM4KwDLc7Nw06zkueEuHhgSKQq2takP8YpC
